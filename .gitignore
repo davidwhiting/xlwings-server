@@ -10,3 +10,5 @@ node_modules
 .coverage
 scratch*
 docs/_build/
+venv/
+.venv/
